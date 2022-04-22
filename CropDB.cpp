@@ -45,7 +45,6 @@ void CropDB::shrink() {
 
 
 
-
 /**
 Ask the user to specify a db name, and then load the data using the private function
 */
